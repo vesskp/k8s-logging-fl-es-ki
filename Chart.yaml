@@ -1,0 +1,5 @@
+# https://github.com/kubernetes/kubernetes/tree/master/cluster/addons/fluentd-elasticsearch
+apiVersion: v1
+name: fluentd-els-kibana-k8s
+description: Fluend-els-kibana from github-kubernetes
+version: 1.0.0
