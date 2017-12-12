@@ -1,4 +1,4 @@
-# k8s-logging-fl-es-ki
+# k8s logging: Fluentd-ElasticSearch-Kibana
 
 Important: for successful deployment you need to have
 'json-text' as default log-driver for Docker on the all
